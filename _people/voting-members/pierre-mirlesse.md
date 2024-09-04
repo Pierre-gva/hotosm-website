@@ -13,7 +13,7 @@ Project:
 - LearnOSM
 - Nepal 2015 Earthquake Response
 - Central African Republic Activation
-Country: United Kingdom
+Country: Switzerland
 Social Media (Full URL):
   Twitter: https://twitter.com/@pierremirlesse
 redirect_from:
